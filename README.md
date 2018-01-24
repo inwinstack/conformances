@@ -11,6 +11,7 @@ these in your cluster is with `curl -L https://raw.githubusercontent.com/cncf/k8
     - [v1.8.4](/kube-ansible/v1.8/v1.8.4)
     - [v1.8.5](/kube-ansible/v1.8/v1.8.5)
     - [v1.8.6](/kube-ansible/v1.8/v1.8.6)
+    - [v1.8.7](/kube-ansible/v1.8/v1.8.7)
   - [v1.9](https://github.com/cncf/k8s-conformance)
     - [v1.9.0](/kube-ansible/v1.9/v1.9.0)
     - [v1.9.1](/kube-ansible/v1.9/v1.9.1)
