@@ -3,7 +3,8 @@ To reproduce:
 ```shell
 #
 $ git clone https://github.com/inwinstack/kube-ansible.git
-$ cd inwinkube-ansible
+$ cd kube-ansible
+$ sed -i 's/kube_version:.*/kube_version: 1.9.0/g' group_vars/all.yml
 $ ./tools/setup --memory 2048 --network calico -i eth1 --worker 3 --boss 1 --combine-master 0 --combine-etcd 0
 Cluster Size: 1 master, 3 worker.
      VM Size: 1 vCPU, 2048 MB
