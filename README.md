@@ -6,6 +6,7 @@ these in your cluster is with `curl -L https://raw.githubusercontent.com/cncf/k8
 - [kube-ansible](https://github.com/inwinstack/inwinkube-ansible.git)
   - [v1.7](https://github.com/cncf/k8s-conformance/pull/96)
     - [v1.7.11](/kube-ansible/v1.7/v1.7.11)
+    - [v1.7.12](/kube-ansible/v1.7/v1.7.12)
   - [v1.8](https://github.com/cncf/k8s-conformance/pull/95)
     - [v1.8.2](/kube-ansible/v1.8/v1.8.2)
     - [v1.8.4](/kube-ansible/v1.8/v1.8.4)
