@@ -18,4 +18,3 @@ these in your cluster is with `curl -L https://raw.githubusercontent.com/cncf/k8
     - [v1.9.0](/kube-ansible/v1.9/v1.9.0)
     - [v1.9.1](/kube-ansible/v1.9/v1.9.1)
     - [v1.9.2](/kube-ansible/v1.9/v1.9.2)
-- [IKM](https://github.com/inwinstack/ikm.git)
