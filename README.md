@@ -22,3 +22,5 @@ these in your cluster is with `curl -L https://raw.githubusercontent.com/cncf/k8
     - [v1.11.5](/kube-ansible/v1.11/v1.11.5)
   - [v1.12](https://github.com/cncf/k8s-conformance/pull/405)
     - [v1.12.3](/kube-ansible/v1.12/v1.12.3)
+  - [v1.13](https://github.com/cncf/k8s-conformance/pull/408)
+    - [v1.13.0](/kube-ansible/v1.13/v1.13.0)
